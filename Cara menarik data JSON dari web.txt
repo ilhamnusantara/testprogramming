@@ -1,0 +1,8 @@
+langkah pertama menari data json dari web
+
+1. buat file dan code untuk mengkoneksikan ke database, disini nama file saya koneksi.php
+2. buat file dan code untuk import/ambil data json dari web, disini nama file saya importjson.php
+3. lalu copykan kedua file (koneksi.php dan importjson) ke local xampp/htdocs
+4. buka browser dan masukan link http://localhost/importjson.php
+5. jika muncul "Import data sukses" maka import data berhasil disimpan ke database local kita 
+6. Selesai
